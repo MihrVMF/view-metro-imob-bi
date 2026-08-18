@@ -57,7 +57,10 @@ bastante o retrabalho de montar relatório manual toda semana.
 
 ## Imagens
 
-*(prints do dashboard em breve)*
+O relatório tem mais de uma página; abaixo, a página de indicadores de
+RH (headcount, turnover, salário por área e por nível):
+
+![Página de RH do relatório METRO IMOB](imagens/pagina-rh.png)
 
 ## Como Reproduzir
 
